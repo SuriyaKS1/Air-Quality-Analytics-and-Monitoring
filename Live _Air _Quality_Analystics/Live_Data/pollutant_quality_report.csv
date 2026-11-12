@@ -1,0 +1,8 @@
+pollutant_id,total_records,available_readings,missing_readings,availability_percentage
+CO,537,517,20,96.28
+NH3,537,447,90,83.24
+NO2,537,496,41,92.36
+OZONE,537,508,29,94.6
+PM10,537,486,51,90.5
+PM2.5,537,494,43,91.99
+SO2,537,476,61,88.64
